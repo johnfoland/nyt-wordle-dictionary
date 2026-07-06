@@ -1,7 +1,7 @@
 {
     "info": "words.json: List of possible Wordle words.",
-    "last_update": "2026-07-03",
-    "words_count": 2678,
+    "last_update": "2026-07-06",
+    "words_count": 2679,
     "words": [
         "aback",
         "abase",
@@ -2471,6 +2471,7 @@
         "tuber",
         "tulip",
         "tulle",
+        "tummy",
         "tumor",
         "tuner",
         "tunic",
