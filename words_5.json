@@ -1,7 +1,7 @@
 {
     "info": "words.json: List of possible Wordle words.",
-    "last_update": "2026-07-06",
-    "words_count": 2679,
+    "last_update": "2026-07-07",
+    "words_count": 2680,
     "words": [
         "aback",
         "abase",
@@ -2373,6 +2373,7 @@
         "thick",
         "thief",
         "thigh",
+        "thine",
         "thing",
         "think",
         "third",
