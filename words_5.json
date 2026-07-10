@@ -1,7 +1,7 @@
 {
     "info": "words.json: List of possible Wordle words.",
-    "last_update": "2026-07-07",
-    "words_count": 2680,
+    "last_update": "2026-07-10",
+    "words_count": 2681,
     "words": [
         "aback",
         "abase",
@@ -396,6 +396,7 @@
         "canoe",
         "canon",
         "caper",
+        "capon",
         "capri",
         "caput",
         "carat",
