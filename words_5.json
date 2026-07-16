@@ -1,7 +1,7 @@
 {
     "info": "words.json: List of possible Wordle words.",
-    "last_update": "2026-07-15",
-    "words_count": 2683,
+    "last_update": "2026-07-16",
+    "words_count": 2684,
     "words": [
         "aback",
         "abase",
@@ -1796,6 +1796,7 @@
         "queer",
         "quell",
         "query",
+        "queso",
         "quest",
         "queue",
         "quick",
