@@ -1,7 +1,7 @@
 {
     "info": "words.json: List of possible Wordle words.",
-    "last_update": "2026-07-16",
-    "words_count": 2684,
+    "last_update": "2026-07-19",
+    "words_count": 2685,
     "words": [
         "aback",
         "abase",
@@ -461,6 +461,7 @@
         "chuck",
         "chump",
         "chunk",
+        "churl",
         "churn",
         "chute",
         "cider",
