@@ -1,7 +1,7 @@
 {
     "info": "words.json: List of possible Wordle words.",
-    "last_update": "2026-07-21",
-    "words_count": 2686,
+    "last_update": "2026-07-24",
+    "words_count": 2687,
     "words": [
         "aback",
         "abase",
@@ -1722,6 +1722,7 @@
         "poser",
         "posit",
         "posse",
+        "potty",
         "pouch",
         "pound",
         "pouty",
