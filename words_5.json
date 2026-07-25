@@ -1,7 +1,7 @@
 {
     "info": "words.json: List of possible Wordle words.",
-    "last_update": "2026-07-24",
-    "words_count": 2687,
+    "last_update": "2026-07-25",
+    "words_count": 2688,
     "words": [
         "aback",
         "abase",
@@ -72,6 +72,7 @@
         "allow",
         "alloy",
         "aloft",
+        "aloha",
         "alone",
         "along",
         "aloof",
