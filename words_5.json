@@ -1,7 +1,7 @@
 {
     "info": "words.json: List of possible Wordle words.",
     "last_update": "2026-08-16",
-    "words_count": 2692,
+    "words_count": 2691,
     "words": [
         "aback",
         "abase",
@@ -171,7 +171,6 @@
         "axial",
         "axiom",
         "axion",
-        "azoic",
         "azure",
         "bacon",
         "badge",
