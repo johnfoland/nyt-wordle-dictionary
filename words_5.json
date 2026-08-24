@@ -1,7 +1,7 @@
 {
     "info": "words.json: List of possible Wordle words.",
-    "last_update": "2026-08-16",
-    "words_count": 2691,
+    "last_update": "2026-08-24",
+    "words_count": 2692,
     "words": [
         "aback",
         "abase",
@@ -1930,6 +1930,7 @@
         "ruler",
         "rumba",
         "rumor",
+        "runny",
         "rupee",
         "rural",
         "rusty",
