@@ -1,7 +1,7 @@
 {
     "info": "words.json: List of possible Wordle words.",
-    "last_update": "2026-08-24",
-    "words_count": 2692,
+    "last_update": "2026-08-27",
+    "words_count": 2693,
     "words": [
         "aback",
         "abase",
@@ -2508,6 +2508,7 @@
         "ultra",
         "umbra",
         "unarm",
+        "uncap",
         "uncle",
         "uncut",
         "under",
