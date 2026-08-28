@@ -1,7 +1,7 @@
 {
     "info": "words.json: List of possible Wordle words.",
-    "last_update": "2026-08-27",
-    "words_count": 2693,
+    "last_update": "2026-08-28",
+    "words_count": 2694,
     "words": [
         "aback",
         "abase",
@@ -2493,6 +2493,7 @@
         "twang",
         "tweak",
         "tweed",
+        "tween",
         "tweet",
         "twerk",
         "twerp",
