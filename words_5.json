@@ -1,7 +1,7 @@
 {
     "info": "words.json: List of possible Wordle words.",
     "last_update": "2026-08-29",
-    "words_count": 2695,
+    "words_count": 2696,
     "words": [
         "aback",
         "abase",
@@ -30,6 +30,7 @@
         "admin",
         "admit",
         "adobe",
+        "adobo",
         "adopt",
         "adore",
         "adorn",
