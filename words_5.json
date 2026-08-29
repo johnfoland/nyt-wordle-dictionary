@@ -1,7 +1,7 @@
 {
     "info": "words.json: List of possible Wordle words.",
-    "last_update": "2026-08-28",
-    "words_count": 2694,
+    "last_update": "2026-08-29",
+    "words_count": 2695,
     "words": [
         "aback",
         "abase",
@@ -1611,6 +1611,7 @@
         "ovoid",
         "owing",
         "owner",
+        "oxbow",
         "oxide",
         "ozone",
         "pacer",
