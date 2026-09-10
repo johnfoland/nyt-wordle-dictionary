@@ -1,7 +1,7 @@
 {
     "info": "words.json: List of possible Wordle words.",
-    "last_update": "2026-09-06",
-    "words_count": 2700,
+    "last_update": "2026-09-10",
+    "words_count": 2701,
     "words": [
         "aback",
         "abase",
@@ -922,6 +922,7 @@
         "flunk",
         "flush",
         "flute",
+        "flyby",
         "flyer",
         "foamy",
         "focal",
