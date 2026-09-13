@@ -1,7 +1,7 @@
 {
     "info": "words.json: List of possible Wordle words.",
-    "last_update": "2026-09-12",
-    "words_count": 2710,
+    "last_update": "2026-09-13",
+    "words_count": 2711,
     "words": [
         "aback",
         "abase",
@@ -1163,6 +1163,7 @@
         "hitch",
         "hoard",
         "hobby",
+        "hocus",
         "hoist",
         "hokey",
         "holey",
