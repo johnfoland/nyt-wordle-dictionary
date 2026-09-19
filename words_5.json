@@ -1,7 +1,7 @@
 {
     "info": "words.json: List of possible Wordle words.",
     "last_update": "2026-09-19",
-    "words_count": 2713,
+    "words_count": 2712,
     "words": [
         "aback",
         "abase",
@@ -180,7 +180,6 @@
         "badly",
         "bagel",
         "baggy",
-        "baken",
         "baker",
         "baldy",
         "baler",
