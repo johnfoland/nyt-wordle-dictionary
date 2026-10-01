@@ -1,7 +1,7 @@
 {
     "info": "words.json: List of possible Wordle words.",
-    "last_update": "2026-09-19",
-    "words_count": 2712,
+    "last_update": "2026-10-01",
+    "words_count": 2713,
     "words": [
         "aback",
         "abase",
@@ -1913,6 +1913,7 @@
         "risen",
         "riser",
         "risky",
+        "ritzy",
         "rival",
         "river",
         "rivet",
