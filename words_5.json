@@ -1,7 +1,7 @@
 {
     "info": "words.json: List of possible Wordle words.",
-    "last_update": "2026-10-01",
-    "words_count": 2714,
+    "last_update": "2026-10-02",
+    "words_count": 2715,
     "words": [
         "aback",
         "abase",
@@ -1034,6 +1034,7 @@
         "glory",
         "gloss",
         "glove",
+        "gluey",
         "glute",
         "glyph",
         "gnash",
