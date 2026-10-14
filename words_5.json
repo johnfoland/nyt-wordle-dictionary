@@ -1,7 +1,7 @@
 {
     "info": "words.json: List of possible Wordle words.",
     "last_update": "2026-10-14",
-    "words_count": 2726,
+    "words_count": 2725,
     "words": [
         "aback",
         "abase",
@@ -1407,7 +1407,6 @@
         "lusty",
         "lying",
         "lymph",
-        "lynch",
         "lyric",
         "macaw",
         "macho",
@@ -2358,6 +2357,7 @@
         "swore",
         "sworn",
         "swung",
+        "synch",
         "synod",
         "syrup",
         "tabby",
@@ -2717,7 +2717,6 @@
         "yahoo",
         "yearn",
         "yeast",
-        "yecch",
         "yield",
         "yodel",
         "yokel",
