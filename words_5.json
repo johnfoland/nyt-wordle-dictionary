@@ -1,7 +1,7 @@
 {
     "info": "words.json: List of possible Wordle words.",
-    "last_update": "2026-10-06",
-    "words_count": 2724,
+    "last_update": "2026-10-14",
+    "words_count": 2726,
     "words": [
         "aback",
         "abase",
@@ -1790,6 +1790,7 @@
         "psalm",
         "pshaw",
         "psoas",
+        "psych",
         "psyop",
         "pubic",
         "pubis",
@@ -2716,6 +2717,7 @@
         "yahoo",
         "yearn",
         "yeast",
+        "yecch",
         "yield",
         "yodel",
         "yokel",
