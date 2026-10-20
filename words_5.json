@@ -1,7 +1,7 @@
 {
     "info": "words.json: List of possible Wordle words.",
-    "last_update": "2026-10-14",
-    "words_count": 2725,
+    "last_update": "2026-10-20",
+    "words_count": 2726,
     "words": [
         "aback",
         "abase",
@@ -2483,6 +2483,7 @@
         "tread",
         "treat",
         "trend",
+        "tress",
         "triad",
         "trial",
         "tribe",
