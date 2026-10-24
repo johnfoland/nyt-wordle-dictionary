@@ -1,7 +1,7 @@
 {
     "info": "words.json: List of possible Wordle words.",
-    "last_update": "2026-10-20",
-    "words_count": 2726,
+    "last_update": "2026-10-24",
+    "words_count": 2727,
     "words": [
         "aback",
         "abase",
@@ -938,6 +938,7 @@
         "foist",
         "folic",
         "folio",
+        "folky",
         "folly",
         "foray",
         "force",
