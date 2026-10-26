@@ -1,7 +1,7 @@
 {
     "info": "words.json: List of possible Wordle words.",
-    "last_update": "2026-10-24",
-    "words_count": 2727,
+    "last_update": "2026-10-26",
+    "words_count": 2728,
     "words": [
         "aback",
         "abase",
@@ -1883,6 +1883,7 @@
         "reedy",
         "refer",
         "refit",
+        "refry",
         "regal",
         "rehab",
         "reign",
