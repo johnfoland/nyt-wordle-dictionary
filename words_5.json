@@ -1,7 +1,7 @@
 {
     "info": "words.json: List of possible Wordle words.",
-    "last_update": "2026-11-05",
-    "words_count": 2732,
+    "last_update": "2026-11-06",
+    "words_count": 2733,
     "words": [
         "aback",
         "abase",
@@ -716,6 +716,7 @@
         "drawn",
         "dread",
         "dream",
+        "dreck",
         "dress",
         "dried",
         "drier",
