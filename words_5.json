@@ -1,7 +1,7 @@
 {
     "info": "words.json: List of possible Wordle words.",
-    "last_update": "2026-11-06",
-    "words_count": 2733,
+    "last_update": "2026-11-07",
+    "words_count": 2735,
     "words": [
         "aback",
         "abase",
@@ -1639,6 +1639,7 @@
         "ozone",
         "pacer",
         "paddy",
+        "padre",
         "pagan",
         "pager",
         "paint",
@@ -1654,6 +1655,7 @@
         "paper",
         "parch",
         "parer",
+        "parge",
         "parka",
         "parry",
         "parse",
